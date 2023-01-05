@@ -48,3 +48,9 @@ Find out more about me & feel free to connect with me here:
 [![LeetCode](https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/somusaxena20/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somu-saxena-587a66208/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/somusaxena20)
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=somusaxena20">
+</a>
+<a href="https://github.com/somusaxena20?tab=followers"><img src="https://img.shields.io/github/followers/somusaxena20?label=Followers&style=social" alt="GitHub Badge"></a>
